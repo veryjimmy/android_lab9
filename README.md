@@ -14,3 +14,4 @@
 <br/>
 ## 水平畫面
 ![image](https://github.com/veryjimmy/android_lab9/blob/master/ex4.png)
+<br/>
